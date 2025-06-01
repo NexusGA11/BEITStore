@@ -1,0 +1,9 @@
+{
+  "produtos": [
+    { "id": 1, "nome": "Camisa Azul", "preco": 59.9, "descricao": "Camisa confortável azul", "imagem": "https://via.placeholder.com/150" },
+    { "id": 2, "nome": "Calça Jeans", "preco": 120, "descricao": "Calça jeans clássica", "imagem": "https://via.placeholder.com/150" },
+    { "id": 3, "nome": "Tênis Esportivo", "preco": 250, "descricao": "Tênis leve para corrida", "imagem": "https://via.placeholder.com/150" },
+    { "id": 4, "nome": "Boné Preto", "preco": 45, "descricao": "Boné preto com logo", "imagem": "https://via.placeholder.com/150" },
+    { "id": 5, "nome": "Relógio Digital", "preco": 350, "descricao": "Relógio digital moderno", "imagem": "https://via.placeholder.com/150" }
+  ]
+}
