@@ -4,7 +4,7 @@ import CarrinhoPage from "./CarrinhoPage";
 import PedidoFinalizado from "./PedidoFinalizado";
 import "./App.css";
 import CarrinhoIcon from "./img/Carrinhoicon.png";
-import { imagensProdutos } from "./imagens"; // <-- novo import
+import { imagensProdutos } from "./imagens"; 
 
 function App() {
   const [produtos, setProdutos] = useState([]);
